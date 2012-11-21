@@ -1,7 +1,7 @@
 global BridgeAddress
 global apiKey
-set BridgeAddress to "172.16.11.180"
-set apiKey to "3353d02528b5f127b9e5ff1300fe453"
+set BridgeAddress to "YOUR IP HERE"
+set apiKey to "YOUR API HERE"
 
 global turnOn
 global turnOff
